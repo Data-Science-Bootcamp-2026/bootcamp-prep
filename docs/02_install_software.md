@@ -3,6 +3,11 @@
 x
 
 
+# Installing R packages
+
+x
+
+
 # Installing RStudio
 
 x
