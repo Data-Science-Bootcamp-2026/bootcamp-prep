@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - 00_index.md
+    - 01_schedule.md
+    - 02_install_software.md
+    - 03_update_software.md
+    - 04_github_education.md
+
+website:
+  title: "Bootcamp Prep"
+  page-navigation: true
+  sidebar:
+    title: "Bootcamp Prep"
+    style: docked
+    search: true
+    contents:
+      - text: "Welcome"
+        href: index.md
+      - text: "Schedule"
+        href: 01_schedule.md
+      - text: "Install Software"
+        href: 02_install_software.md
+      - text: "Update Software"
+        href: 03_update_software.md
+      - text: "GitHub Education"
+        href: 04_github_education.md
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
