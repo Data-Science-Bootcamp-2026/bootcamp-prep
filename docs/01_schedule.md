@@ -1,15 +1,22 @@
 ---
-title: "Schedule"
+title: "Tentative schedule"
 ---
 
 <div style="height: 2em;"></div>
 
 
-## Part 1
+## Programming in R
 
-x
+| Time | Activity |
+|------|----------|
+| 9:00 – 10:00 | **Presentation**<br>- Why use R & RStudio<br>- Packages<br>- Projects<br>- Objects<br>- Data structures |
+| 10:00 - 10:30 | **Workshop**<br>- Base R<br>- Tidyverse<br>- Cleaning & visualizing similated data |
 
 
-## Part 2
+## Open science
 
-x
+| Time | Activity |
+|------|----------|
+| 10:30 - 11:30 | **Presentation**<br>- Open science repositories<br>- Free and open source software<br>- Git & GitHub<br>- R repository structure<br>- R dependency management<br>- Markdown<br>- Quarto |
+| 11:30 - 12:00 | **Lunch break** |
+| 12:00 - 1:00 | **Workshop**<br>- VS Code<br>- Version control<br>- GitHub Copilot |
