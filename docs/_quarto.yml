@@ -10,25 +10,36 @@ project:
 
 website:
   title: "Bootcamp Prep"
+  repo-url: https://github.com/Data-Science-Bootcamp-2026/bootcamp-prep
+  repo-actions:
+    - issue
   page-navigation: true
   sidebar:
     title: "Bootcamp Prep"
     style: docked
     search: true
+    tools:
+      - icon: github
+        href: https://github.com/Data-Science-Bootcamp-2026/bootcamp-prep
+        aria-label: "Source code"
     contents:
-      - text: "Welcome"
-        href: index.md
-      - text: "Schedule"
+      - text: "1 Welcome"
+        href: 00_index.md
+      - text: "2 Schedule"
         href: 01_schedule.md
-      - text: "Install Software"
+      - text: "3 Install Software"
         href: 02_install_software.md
-      - text: "Update Software"
+      - text: "4 (Optional) Update Software"
         href: 03_update_software.md
-      - text: "GitHub Education"
+      - text: "5 (Optional) GitHub Education"
         href: 04_github_education.md
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: litera
+      dark: darkly
+    css: styles.css
     toc: true
     toc-depth: 3
+    page-layout: article
