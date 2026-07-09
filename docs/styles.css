@@ -24,11 +24,6 @@ body {
   padding-right: 1rem;
 }
 
-#quarto-margin-sidebar .nav-link img,
-#TOC .nav-link img {
-  display: none;
-}
-
 #quarto-document-content,
 #quarto-document-content p,
 #quarto-document-content li,
@@ -44,9 +39,49 @@ body {
   line-height: 1;
 }
 
-#quarto-document-content section.level1 + section.level1 > h1,
-#quarto-document-content > h1:not(:first-of-type) {
-  margin-top: 2.75rem;
+#installing-r > h2::after,
+#updating-r > h2::after,
+#installing-rstudio > h2::after,
+#updating-rstudio > h2::after,
+#creating-a-github-account > h2::after,
+#installing-git > h2::after,
+#updating-git > h2::after,
+#installing-visual-studio-vs-code > h2::after,
+#updating-vs-code > h2::after {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  content: "";
+  display: inline-block;
+  height: 1.2em;
+  margin-left: -1rem;
+  vertical-align: -0.2em;
+  width: 1.2em;
+}
+
+#installing-r > h2::after,
+#updating-r > h2::after {
+  background-image: url("assets/images/r_logo.webp");
+}
+
+#installing-rstudio > h2::after,
+#updating-rstudio > h2::after {
+  background-image: url("assets/images/rstudio_logo.webp");
+  width: 2.4em;
+}
+
+#creating-a-github-account > h2::after {
+  background-image: url("assets/images/github_logo.png");
+}
+
+#installing-git > h2::after,
+#updating-git > h2::after {
+  background-image: url("assets/images/git_logo.png");
+}
+
+#installing-visual-studio-vs-code > h2::after,
+#updating-vs-code > h2::after {
+  background-image: url("assets/images/vscode_logo.webp");
 }
 
 .fake-h1 > h1,

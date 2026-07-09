@@ -1,5 +1,4 @@
 .DS_Store
 .quarto/
 docs/.quarto/
-docs/_site/
 docs/_book/

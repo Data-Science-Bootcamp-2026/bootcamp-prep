@@ -10,7 +10,7 @@ title: "Tentative schedule"
 | Time | Activity |
 |------|----------|
 | 9:00 – 10:00 | **Presentation**<br>- Why use R & RStudio<br>- Packages<br>- Projects<br>- Objects<br>- Data structures |
-| 10:00 - 10:30 | **Workshop**<br>- Base R<br>- Tidyverse<br>- Cleaning & visualizing similated data |
+| 10:00 - 10:30 | **Workshop**<br>- Base R<br>- Tidyverse<br>- Cleaning & visualizing simulated data |
 
 
 ## Open science
