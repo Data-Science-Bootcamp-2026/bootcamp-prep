@@ -1,8 +1,23 @@
+---
+title: "DATA SCIENCE BOOTCAMP 2026"
+output-file: index.html
+---
+
+
 # Welcome
+
+## Something
+
+Something something
+
+
+# Scope
+
+## Something
 
 x
 
 
-# Scope
+# What to bring
 
 x
