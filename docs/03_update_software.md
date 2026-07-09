@@ -7,13 +7,13 @@ title: "Update software (optional)"
 
 ## Updating R
 
-When a new version of R is released, you can update it - though you don't have to. For instance, if you're in the middle of a project, it is simpler to keep going on the older version of R than update then verify all the code still works the same.
+When a new version of R is released, you can update it - though you do not have to. For instance, if you are in the middle of a project, it is simpler to keep going on the older version of R than update then verify all the code still works the same.
 
 Patches (e.g., 4.6.0 → 4.6.1) and minor releases (e.g., 4.5 → 4.6) usually don't change much so you will rarely feel the difference. By contrast, major releases (e.g., 4 → 5) might produce breaking changes.
 
 ::: {.callout-note}
 ## **Note**
-Updating R will not update the packages (the maintainers may have updates with every R release). You will still need to do that manually - we will cover this during the bootcamp.
+Updating R will not update the packages (the package maintainers may have updates for new R release). You will still need to do that manually - we will cover this during the bootcamp.
 :::
 
 ::: {.panel-tabset}
@@ -31,7 +31,7 @@ Updating R will not update the packages (the maintainers may have updates with e
     - Select the latest R version and click **OK**
     - Close RStudio and open it again
     - Upon reopening, the console (bottom left quadrant of RStudio) should state the new R version
-4. If you wish to remove the previous R version, then uninstall it. Again, this is optional. I often keep several previous R versions so that I can still run past projects.
+4. If you wish to remove the previous R version, then uninstall it. Again, this is optional. I like to keep several previous R versions so that I can still run past projects.
     - (Option 1) **Settings > Apps > Installed apps**
         - Scroll down to **R for Windows X.X.X** (placeholder for the previous R version)
         - Click **...**
@@ -88,7 +88,7 @@ RStudio will prompt you if updates are available.
 1. Open the Terminal app
 2. Run `git --version` to confirm you are behind the latest release
 3. Run `brew update` to update Homebrew
-4. Run `brew upgrate git` to update git
+4. Run `brew upgrade git` to update git
 5. When it prompts you to confirm installation `[y/n]`, type `y`
 
 :::
