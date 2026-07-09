@@ -5,7 +5,7 @@ title: "Update software (optional)"
 <div style="height: 2em;"></div>
 
 
-## Updating R <img src="assets/images/r_logo.webp" alt="R logo" width="28" style="vertical-align: middle; margin-left: 0.20rem;">
+## Updating R
 
 When a new version of R is released, you can update it - though you don't have to. For instance, if you're in the middle of a project, it is simpler to keep going on the older version of R than update then verify all the code still works the same.
 
@@ -68,12 +68,12 @@ Updating R will not update the packages (the maintainers may have updates with e
 :::
 
 
-## Updating RStudio <img src="assets/images/rstudio_logo.webp" alt="RStudio logo" width="60" style="vertical-align: middle; margin-left: 0.20rem;">
+## Updating RStudio
 
 RStudio will prompt you if updates are available.
 
 
-## Updating Git <img src="assets/images/git_logo.png" alt="Git logo" width="28" style="vertical-align: middle; margin-left: 0.20rem;">
+## Updating Git
 
 ::: {.panel-tabset}
 
@@ -87,12 +87,13 @@ RStudio will prompt you if updates are available.
 
 1. Open the Terminal app
 2. Run `git --version` to confirm you are behind the latest release
-3. Run `brew update git`
-4. When it prompts you to confirm installation `[y/n]`, type `y`
+3. Run `brew update` to update Homebrew
+4. Run `brew upgrate git` to update git
+5. When it prompts you to confirm installation `[y/n]`, type `y`
 
 :::
 
 
-## Updating VS Code <img src="assets/images/vscode_logo.webp" alt="VS Code logo" width="28" style="vertical-align: middle; margin-left: 0.20rem;">
+## Updating VS Code
 
 VS Code will prompt you if updates are available.

@@ -5,7 +5,7 @@ title: "Install software"
 <div style="height: 2em;"></div>
 
 
-## Installing R <img src="assets/images/r_logo.webp" alt="R logo" width="28" style="vertical-align: middle; margin-left: 0.20rem;">
+## Installing R
 
 ::: {.panel-tabset}
 
@@ -32,7 +32,7 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
 :::
 
 
-## Installing RStudio <img src="assets/images/rstudio_logo.webp" alt="RStudio logo" width="60" style="vertical-align: middle; margin-left: 0.20rem;">
+## Installing RStudio
 
 ::: {.panel-tabset}
 
@@ -53,16 +53,16 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
 :::
 
 
-## Creating a GitHub account <img src="assets/images/github_logo.png" alt="GitHub logo" width="28" style="vertical-align: middle; margin-left: 0.20rem;">
+## Creating a GitHub account
 
 1. Go to [GitHub.com](https://github.com/){target="_blank"}
 2. Click **Sign up** on the top right corner
 3. If you are a student or teacher, it is best to use your institutional email address as your primary email because you can get perks (to be discussed later in [GitHub Education](04_github_education.md))
 4. Set up two-factor authentication
-5. If the option comes up, select "Stay signed in" - or at least, don't log out, as we will repeatedly visiting GitHub.com
+5. If the option comes up, select "Stay signed in" - or at least, don't log out, as we will repeatedly visit GitHub.com
 
 
-## Installing Git <img src="assets/images/git_logo.png" alt="Git logo" width="28" style="vertical-align: middle; margin-left: 0.20rem;">
+## Installing Git
 
 ::: {.panel-tabset}
 
@@ -81,8 +81,8 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
 6. Configure your Git user information
     - In the Terminal, run `git config --global user.name "Your Name"`, replacing the `Your Name` placeholder with your full name
     - Run `git config --global user.email "your_email@example.com"`, replacing the `your_email@example.com` placeholder with an email address associated with your GitHub account
-    - Confirm what you entered is correct by running `git config user.name` and `git config user.email`
-    - Note that this step simply identifies your name and email that will be stamped on your Git contributions (called *commits* - we will define commits during the bootcamp). It is unrelated to GitHub authentication; authenticating GitHub will occur when you perform your first action that communicates with GitHub., whereupon it will ask you to authenticate such as by setting up a [Personal Access Token](https://github.com/settings/tokens){target="_blank"}.
+    - Confirm what you entered is correct by running `git config --global user.name` and `git config --global user.email`
+    - Note that this step simply specifies the name and email that will be stamped on your Git contributions (called *commits*, which we will define commits during the bootcamp). It is unrelated to GitHub authentication. You will authenticate with GitHub the first time you do something that involves Git communicating with GitHub (e.g., when you push a commit - more on this during the bootcamp), at which point you will be prompted to authenticate using a method such as by setting up a [Personal Access Token](https://github.com/settings/tokens){target="_blank"}.
 
 ### macOS
 
@@ -107,13 +107,13 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
 6. Configure your Git user information
     - In the Terminal, run `git config --global user.name "Your Name"`, replacing the `Your Name` placeholder with your full name
     - Run `git config --global user.email "your_email@example.com"`, replacing the `your_email@example.com` placeholder with an email address associated with your GitHub account
-    - Confirm what you entered is correct by running `git config user.name` and `git config user.email`
-    - Note that this step simply identifies your name and email that will be stamped on your Git contributions (called *commits* - we will define commits during the bootcamp). It is unrelated to GitHub authentication; authenticating GitHub will occur when you perform your first action that communicates with GitHub., whereupon it will ask you to authenticate such as by setting up a [Personal Access Token](https://github.com/settings/tokens){target="_blank"}.
+    - Confirm what you entered is correct by running `git config --global user.name` and `git config --global user.email`
+    - Note that this step simply specifies the name and email that will be stamped on your Git contributions (called *commits*, which we will define commits during the bootcamp). It is unrelated to GitHub authentication. You will authenticate with GitHub the first time you do something that involves Git communicating with GitHub (e.g., when you push a commit - more on this during the bootcamp), at which point you will be prompted to authenticate using a method such as by setting up a [Personal Access Token](https://github.com/settings/tokens){target="_blank"}.
 
 :::
 
 
-## Installing Visual Studio (VS) Code <img src="assets/images/vscode_logo.webp" alt="VS Code logo" width="28" style="vertical-align: middle; margin-left: 0.20rem;">
+## Installing Visual Studio (VS) Code
 
 ::: {.panel-tabset}
 
