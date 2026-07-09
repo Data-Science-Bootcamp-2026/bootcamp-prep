@@ -1,53 +1,55 @@
 ---
-title: "INSTALL SOFTWARE"
+title: "Install software"
 ---
 
+<div style="height: 2em;"></div>
 
-# Installing R
+
+## Installing R
 
 ::: {.panel-tabset}
 
-## Windows
+### Windows
 
 x
 
-## macOS
+### macOS
 
 x
 
 :::
 
 
-# Installing R packages
+## Installing R packages
 
 x
 
 
-# Installing RStudio
+## Installing RStudio
 
 x
 
 
-# Creating a GitHub account
+## Creating a GitHub account
 
 x
 
 
-# Installing Git
+## Installing Git
 
 ::: {.panel-tabset}
 
-## Windows
+### Windows
 
 x
 
-## macOS
+### macOS
 
 x
 
 :::
 
 
-# Installing Visual Studio (VS) Code
+## Installing Visual Studio (VS) Code
 
 x
