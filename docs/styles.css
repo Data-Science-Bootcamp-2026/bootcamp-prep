@@ -24,6 +24,11 @@ body {
   padding-right: 1rem;
 }
 
+#quarto-margin-sidebar .nav-link img,
+#TOC .nav-link img {
+  display: none;
+}
+
 #quarto-document-content,
 #quarto-document-content p,
 #quarto-document-content li,
