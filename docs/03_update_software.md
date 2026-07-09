@@ -1,28 +1,30 @@
 ---
-title: "(OPTIONAL) UPDATE SOFTWARE"
+title: "Update software (optional)"
 ---
 
+<div style="height: 2em;"></div>
 
-# Updating R
+
+## Updating R
 
 ::: {.panel-tabset}
 
-## Windows
+### Windows
 
 x
 
-## macOS
+### macOS
 
 x
 
 :::
 
 
-# Updating R packages
+## Updating R packages
 
 x
 
 
-# Updating RStudio
+## Updating RStudio
 
 x

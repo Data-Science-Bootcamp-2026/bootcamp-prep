@@ -1,13 +1,15 @@
 ---
-title: "(OPTIONAL) GITHUB EDUCATION"
+title: "GitHub Education (optional)"
 ---
 
+<div style="height: 2em;"></div>
 
-# GitHub Education
+
+## GitHub Education
 
 x
 
 
-# Application
+## Application
 
 x
