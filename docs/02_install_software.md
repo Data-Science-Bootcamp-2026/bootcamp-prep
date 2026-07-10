@@ -59,7 +59,7 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
 2. Click **Sign up** on the top right corner
 3. If you are a student or teacher, it is best to use your institutional email address as your primary email because you can get perks (to be discussed later in [GitHub Education](04_github_education.md))
 4. Set up two-factor authentication
-5. If the option comes up, select "Stay signed in" - or at least, don't log out, as we will repeatedly visit GitHub.com
+5. If the option comes up, select "Stay signed in" as we will repeatedly visit GitHub.com
 
 
 ## Installing Git
@@ -82,7 +82,7 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
     - In the Terminal, run `git config --global user.name "Your Name"`, replacing the `Your Name` placeholder with your full name
     - Run `git config --global user.email "your_email@example.com"`, replacing the `your_email@example.com` placeholder with an email address associated with your GitHub account
     - Confirm what you entered is correct by running `git config --global user.name` and `git config --global user.email`
-    - Note that this step simply specifies the name and email that will be stamped on your Git contributions (called *commits*, which we will define commits during the bootcamp). It is unrelated to GitHub authentication. You will authenticate with GitHub the first time you do something that involves Git communicating with GitHub (e.g., when you push a commit - more on this during the bootcamp), at which point you will be prompted to authenticate using a method such as by setting up a [Personal Access Token](https://github.com/settings/tokens){target="_blank"}.
+    - Note that this step simply specifies the name and email that will be stamped on your Git contributions (called *commits*, which we will define commits during the bootcamp). It is unrelated to GitHub authentication. You will authenticate GitHub the first time you do something that involves Git communicating with GitHub (e.g., when you push a commit - more on this during the bootcamp), at which point you will be prompted to authenticate using a method such as by setting up a [Personal Access Token](https://github.com/settings/tokens){target="_blank"}.
 
 ### macOS
 
@@ -108,7 +108,7 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
     - In the Terminal, run `git config --global user.name "Your Name"`, replacing the `Your Name` placeholder with your full name
     - Run `git config --global user.email "your_email@example.com"`, replacing the `your_email@example.com` placeholder with an email address associated with your GitHub account
     - Confirm what you entered is correct by running `git config --global user.name` and `git config --global user.email`
-    - Note that this step simply specifies the name and email that will be stamped on your Git contributions (called *commits*, which we will define commits during the bootcamp). It is unrelated to GitHub authentication. You will authenticate with GitHub the first time you do something that involves Git communicating with GitHub (e.g., when you push a commit - more on this during the bootcamp), at which point you will be prompted to authenticate using a method such as by setting up a [Personal Access Token](https://github.com/settings/tokens){target="_blank"}.
+    - Note that this step simply specifies the name and email that will be stamped on your Git contributions (called *commits*, which we will define commits during the bootcamp). It is unrelated to GitHub authentication. You will authenticate GitHub the first time you do something that involves Git communicating with GitHub (e.g., when you push a commit - more on this during the bootcamp), at which point you will be prompted to authenticate using a method such as by setting up a [Personal Access Token](https://github.com/settings/tokens){target="_blank"}.
 
 :::
 

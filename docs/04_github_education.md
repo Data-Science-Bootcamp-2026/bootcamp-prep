@@ -17,7 +17,7 @@ The main benefit of getting GitHub Education is that GitHub will grant you bette
 
 To get GitHub Education, you need to prove your status:
 
-1. For students: obtain proof of enrolment (see [here](https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student){target="_blank"} for acceptable documents and requirements). UofT graduate students can get a generated confirmation of registration letter from SGS [here](https://forms.provost.utoronto.ca/forms/sgscorl){target="_blank"}.
+1. For students: obtain proof of enrolment (see [here](https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student){target="_blank"} for acceptable documents and requirements). University of Toronto graduate students can apply for a generated confirmation of registration letter from the School of Graduate Studies [here](https://forms.provost.utoronto.ca/forms/sgscorl){target="_blank"}.
 2. Have your proof of enrolment printed out or open on your computer
 3. Sign in to your GitHub account on your mobile device (it will require you to take a photo, as simple file uploads from your computer are not allowed)
 4. Go to the [education benefits webpage](https://github.com/settings/education/benefits?locale=en-US){target="_blank"} on your mobile device

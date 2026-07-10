@@ -11,9 +11,12 @@ project:
 book:
   title: "DATA SCIENCE BOOTCAMP 2026"
   subtitle: "To do beforehand"
+  output-file: bootcamp-prep
   repo-url: https://github.com/Data-Science-Bootcamp-2026/bootcamp-prep
   repo-actions:
     - issue
+  downloads:
+    - pdf
   page-navigation: true
   chapters:
     - index.md
@@ -36,3 +39,13 @@ format:
     toc: true
     toc-depth: 3
     page-layout: article
+  pdf:
+    documentclass: scrreprt
+    number-sections: true
+    toc: true
+    geometry:
+      - top=0.9in
+      - bottom=0.9in
+      - left=0.9in
+      - right=0.9in
+      - footskip=0.32in

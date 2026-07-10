@@ -1,4 +1,4 @@
-# Data Science Bootcamp 2026: Prep
+# Data Science Bootcamp 2026: Preparation
 
 Things to do before the bootcamp, including:
 - Software installation
