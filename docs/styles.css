@@ -33,10 +33,26 @@ body {
   font-family: var(--bs-body-font-family);
 }
 
-.quarto-title-block .title {
+.quarto-title-block .title,
+.landing-title > h1,
+.landing-title > h1 > .header-section-number {
   font-size: 2rem;
   font-weight: 750;
   line-height: 1;
+  color: inherit;
+}
+
+.landing-title > h1 > .header-section-number {
+  margin-right: 0.35rem;
+}
+
+#TOC > ul > li > a[data-scroll-target="#welcome"] {
+  display: none;
+}
+
+#TOC > ul > li > a[data-scroll-target="#welcome"] + ul {
+  margin-left: 0;
+  padding-left: 0;
 }
 
 #installing-r > h2::after,
@@ -82,9 +98,4 @@ body {
 #installing-visual-studio-vs-code > h2::after,
 #updating-vs-code > h2::after {
   background-image: url("assets/images/vscode_logo.webp");
-}
-
-.fake-h1 > h1,
-h1.fake-h1 {
-  display: none;
 }

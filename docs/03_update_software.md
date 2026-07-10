@@ -13,7 +13,7 @@ Patches (e.g., 4.6.0 → 4.6.1) and minor releases (e.g., 4.5 → 4.6) usually d
 
 ::: {.callout-note}
 ## **Note**
-Updating R will not update the packages (the package maintainers may have updates for new R release). You will still need to do that manually - we will cover this during the bootcamp.
+Updating R will not update the packages (the package maintainers may have updates for new R releases). You will still need to do that manually - we will cover this during the bootcamp.
 :::
 
 ::: {.panel-tabset}
@@ -70,7 +70,7 @@ Updating R will not update the packages (the package maintainers may have update
 
 ## Updating RStudio
 
-RStudio will prompt you if updates are available.
+RStudio will prompt you if an update is available.
 
 
 ## Updating Git
@@ -96,4 +96,4 @@ RStudio will prompt you if updates are available.
 
 ## Updating VS Code
 
-VS Code will prompt you if updates are available.
+VS Code will prompt you if an update is available.
