@@ -47,7 +47,7 @@ Updating R will not update the packages (the package maintainers may have update
     - Note that because the default behaviour is to overwrite your previous R installation, RStudio will not give you an option to switch between R versions as it would on Windows
 3. To install and switch between multiple R versions, use `rig`, a tool developed by Posit (the same people who made RStudio)
     - Technically, `rig` also works for Windows, but the Windows RStudio already has a convenient version switcher so it is not necessary
-    - Go to [their GitHub page](https://github.com/r-lib/rig){target="_blank"}
+    - Go to [their GitHub page](https://github.com/r-lib/rig)
     - They offer both an installer and Homebrew installation for macOS. The installer includes both a menu bar app (GUI) as well as the command-line tool (to be run on Terminal (CLI)). The Homebrew installation only gives you the command-line tool, which may be enough if you are comfortable with CLI.
     - If you follow the link to download the installer:
         - If you have an Apple silicon (M-series) chip, click the link ending in `macOS-arm64.pkg`
