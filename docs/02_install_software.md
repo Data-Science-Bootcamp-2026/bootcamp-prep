@@ -11,7 +11,7 @@ title: "Install software"
 
 ### Windows
 
-1. Go to [CRAN](https://cran.r-project.org/){target="_blank"}
+1. Go to [CRAN](https://cran.r-project.org/)
 2. Click **Download R for Windows**
 3. Click **install R for the first time**
 4. Click **Download R-X.X.X for Windows** (where X.X.X is the version number)
@@ -20,7 +20,7 @@ title: "Install software"
 
 ### macOS
 
-1. Go to [CRAN](https://cran.r-project.org/){target="_blank"}
+1. Go to [CRAN](https://cran.r-project.org/)
 2. Click **Download R for macOS**
     - If you have an Apple silicon (M-series) chip, click the link ending in `arm64.pkg`
     - If you have an Intel chip, click the link ending in `x86_64.pkg`
@@ -38,14 +38,14 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
 
 ### Windows
 
-1. Go to [Posit.io](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads){target="_blank"}
+1. Go to [Posit.io](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads)
 2. Click the download link beside Windows (ending in `.exe`)
 3. Open the downloaded installer
 4. Follow the installation wizard
 
 ### macOS
 
-1. Go to [Posit.io](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads){target="_blank"}
+1. Go to [Posit.io](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads)
 2. Click the download link beside macOS 13+ (ending in `.dmg`)
 3. Open the downloaded installer
 4. Follow the installation wizard
@@ -55,7 +55,7 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
 
 ## Creating a GitHub account
 
-1. Go to [GitHub.com](https://github.com/){target="_blank"}
+1. Go to [GitHub.com](https://github.com/)
 2. Click **Sign up** on the top right corner
 3. If you are a student or teacher, it is best to use your institutional email address as your primary email because you can get perks (to be discussed later in [GitHub Education](04_github_education.md))
 4. Set up two-factor authentication
@@ -68,7 +68,7 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
 
 ### Windows
 
-1. Go to the [Git installation page](https://git-scm.com/install/){target="_blank"}
+1. Go to the [Git installation page](https://git-scm.com/install/)
 2. Click the **Windows** tab
     - If you have an Intel or AMD processor, click **Click here to download** at the top
     - If you have an ARM device (e.g., Qualcomm Snapdragon), click **Git for Windows/ARM64 Setup**
@@ -82,11 +82,11 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
     - In the Terminal, run `git config --global user.name "Your Name"`, replacing the `Your Name` placeholder with your full name
     - Run `git config --global user.email "your_email@example.com"`, replacing the `your_email@example.com` placeholder with an email address associated with your GitHub account
     - Confirm what you entered is correct by running `git config --global user.name` and `git config --global user.email`
-    - Note that this step simply specifies the name and email that will be stamped on your Git contributions (called *commits*, which we will define commits during the bootcamp). It is unrelated to GitHub authentication. You will authenticate GitHub the first time you do something that involves Git communicating with GitHub (e.g., when you push a commit - more on this during the bootcamp), at which point you will be prompted to authenticate using a method such as by setting up a [Personal Access Token](https://github.com/settings/tokens){target="_blank"}.
+    - Note that this step simply specifies the name and email that will be stamped on your Git contributions (called *commits*, which we will define commits during the bootcamp). It is unrelated to GitHub authentication. You will authenticate GitHub the first time you do something that involves Git communicating with GitHub (e.g., when you push a commit - more on this during the bootcamp), at which point you will be prompted to authenticate using a method such as by setting up a [Personal Access Token](https://github.com/settings/tokens).
 
 ### macOS
 
-1. Go to the [Git installation page](https://git-scm.com/install/){target="_blank"}
+1. Go to the [Git installation page](https://git-scm.com/install/)
 2. Click the **macOS** tab
     - As it notes, you will need a package installer first. Package managers are like the App Store but for software that programmers and developers will use (command-line tools and apps). Homebrew is very popular and is the easiest for new users.
 3. Install Homebrew
@@ -108,7 +108,7 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
     - In the Terminal, run `git config --global user.name "Your Name"`, replacing the `Your Name` placeholder with your full name
     - Run `git config --global user.email "your_email@example.com"`, replacing the `your_email@example.com` placeholder with an email address associated with your GitHub account
     - Confirm what you entered is correct by running `git config --global user.name` and `git config --global user.email`
-    - Note that this step simply specifies the name and email that will be stamped on your Git contributions (called *commits*, which we will define commits during the bootcamp). It is unrelated to GitHub authentication. You will authenticate GitHub the first time you do something that involves Git communicating with GitHub (e.g., when you push a commit - more on this during the bootcamp), at which point you will be prompted to authenticate using a method such as by setting up a [Personal Access Token](https://github.com/settings/tokens){target="_blank"}.
+    - Note that this step simply specifies the name and email that will be stamped on your Git contributions (called *commits*, which we will define commits during the bootcamp). It is unrelated to GitHub authentication. You will authenticate GitHub the first time you do something that involves Git communicating with GitHub (e.g., when you push a commit - more on this during the bootcamp), at which point you will be prompted to authenticate using a method such as by setting up a [Personal Access Token](https://github.com/settings/tokens).
 
 :::
 
@@ -119,7 +119,7 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
 
 ### Windows
 
-1. Go to the [Visual Studio Code installation page](https://code.visualstudio.com/download?_exp_download=fb315fc982){target="_blank"}
+1. Go to the [Visual Studio Code installation page](https://code.visualstudio.com/download?_exp_download=fb315fc982)
 2. Click the blue **Windows** button; it should automatically detect what processor you are using (Intel/AMD (x64) or ARM64)
 3. Open the downloaded installer
 4. Follow the installation wizard
@@ -128,7 +128,7 @@ Actually, I use another method involving `rig`, introduced [later](03_update_sof
 
 ### macOS
 
-1. Go to the [Visual Studio Code installation page](https://code.visualstudio.com/download?_exp_download=fb315fc982){target="_blank"}
+1. Go to the [Visual Studio Code installation page](https://code.visualstudio.com/download?_exp_download=fb315fc982)
 2. Click blue **Mac** button; it should automatically detect what chip you are using (Apple silicon (M-series) or Intel)
 3. Open the downloaded installer
 4. Follow the installation wizard
