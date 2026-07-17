@@ -8,6 +8,23 @@ Things to do before the bootcamp, including:
 
 ---
 
+**COURSE MATERIAL:**
+
+This is a 3-part bootcamp:
+
+- Prep -- this page with accompanying [book](https://data-science-bootcamp-2026.github.io/bootcamp-prep/)
+- Part 1: R -- [book](https://data-science-bootcamp-2026.github.io/bootcamp-r/)
+- Part 2: Open Science -- [book](https://data-science-bootcamp-2026.github.io/bootcamp-open-science/)
+
+The books are the full notes. On the top left of each page, there are several buttons:
+
+- Easel (not available for the prep): download PDF slides
+- GitHub: repository
+- PDF icon: download PDF version of that book
+- Slider: switch between light and dark themes
+
+---
+
 **EMAIL:**
 
 Dear all,
