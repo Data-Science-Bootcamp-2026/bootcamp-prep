@@ -26,5 +26,7 @@ To get GitHub Education, you need to prove your status:
 	- Share your location via browser. If you encounter an error, it is most likely you denied your browser permission to access your location. You may need to click "Allow" on the pop-up, or go to Settings and give that browser permission.
 	- Take a photo of your proof of enrolment. If you encounter an error, it is most likely you denied your browser permission to access your camera. You may need to click "Allow" on the pop-up, or go to Settings and give that browser permission.
 6. Approval is automatic (some software will process the document) within a minute or two, however your benefits only become available 3 days after approval. It will look something like this:
-    ![GitHub Education Benefits page showing an approved student application with benefits available after 72 hours.](assets/images/github_education.png)
+
+![](assets/images/github_education.png)
+
 7. After 3 days, return to the [education benefits webpage](https://github.com/settings/education/benefits?locale=en-US) and redeem your benefits by following the hyperlinks (e.g., click **redeem Copilot via the *Copilot sign-up page***). When redeeming GitHub Copilot Student, you may enable everything except perhaps the last option regarding letting your data be used to train the model.
